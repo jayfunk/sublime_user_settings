@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+ctrl+k", "super+ctrl+k"], "command": "reveal_in_side_bar" },
+	{ "keys": ["super+ctrl+k", "super+ctrl+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+]

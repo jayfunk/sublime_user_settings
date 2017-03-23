@@ -1,0 +1,48 @@
+{
+	"bold_folder_labels": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"build",
+		"dist"
+	],
+	"file_exclude_patterns": [
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.min.*"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true,
+	"save_on_focus_lost": true,
+	"auto_complete_cycle": true,
+}
