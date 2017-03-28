@@ -1,16 +1,10 @@
 {
+	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
-	"folder_exclude_patterns":
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_indentation": false,
+	"file_exclude_patterns":
 	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"node_modules",
-		"build",
-		"dist"
-	],
-	"file_exclude_patterns": [
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -33,16 +27,25 @@
 		"*.sublime-workspace",
 		"*.min.*"
 	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"build",
+		"dist"
+	],
 	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"node_path": "/Users/tcook/.nvm/versions/node/v6.9.1/bin/node",
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"highlight_line": true,
-	"trim_trailing_white_space_on_save": true,
-	"save_on_focus_lost": true,
-	"auto_complete_cycle": true,
+	"trim_trailing_white_space_on_save": true
 }
