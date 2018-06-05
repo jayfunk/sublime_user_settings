@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
+class ${1} extends Component {
+  render() {
+    ${2}
+  }
+}
+
+${1}.propTypes = {
+};
+
+export default ${1};
+
+]]>
+</content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>component</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

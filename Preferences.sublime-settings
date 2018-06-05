@@ -24,8 +24,7 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace",
-		"*.min.*"
+		"*.sublime-workspace"
 	],
 	"folder_exclude_patterns":
 	[
@@ -37,15 +36,15 @@
 		"build",
 		"dist"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"node_path": "/Users/tcook/.nvm/versions/node/v6.9.1/bin/node",
 	"save_on_focus_lost": true,
 	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

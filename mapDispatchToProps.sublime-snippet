@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+function mapDispatchToProps(dispatch, ownProps) {
+  return {};
+}
+]]></content>
+  <tabTrigger>mapDispatchToProps</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

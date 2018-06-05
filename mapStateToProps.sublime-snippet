@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+function mapStateToProps(state, ownProps) {
+  return {};
+}
+]]></content>
+  <tabTrigger>mapStateToProps</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
