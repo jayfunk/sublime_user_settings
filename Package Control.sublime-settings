@@ -7,15 +7,22 @@
 	[
 		"All Autocomplete",
 		"Babel",
+		"Enhanced Clojure",
 		"HTMLBeautify",
 		"JsPrettier",
 		"LESS",
+		"MarkdownEditing",
 		"Package Control",
 		"Pretty JSON",
+		"Python PEP8 Autoformat",
+		"Quick File Move",
 		"Sass",
 		"SassBeautify",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-javac"
+		"SublimeLinter-flake8",
+		"SublimeLinter-javac",
+		"Timenow",
+		"TypeScript"
 	]
 }

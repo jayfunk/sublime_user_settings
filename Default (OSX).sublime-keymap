@@ -1,4 +1,9 @@
 [
   { "keys": ["super+ctrl+k", "super+ctrl+k"], "command": "reveal_in_side_bar" },
 	{ "keys": ["super+ctrl+k", "super+ctrl+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+  { "keys": ["shift+super+c"], "command": "copy_path" },
+  { "keys": ["super+t"], "command": "tn_time" },
+  { "keys": ["super+alt+l"], "command": "make_page_reference" },
+  { "keys": ["ctrl+alt+up"], "command": "scroll_lines", "args": {"amount": 10.0} },
+  { "keys": ["ctrl+alt+down"], "command": "scroll_lines", "args": {"amount": -10.0} },
 ]

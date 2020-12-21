@@ -1,8 +1,12 @@
 {
-	"auto_format_on_save": true,
+	"auto_format_on_save": false,
+  "prettier_cli_path": "/Users/tylercook/.nvm/versions/node/v8.16.1/bin/prettier",
 	"prettier_options": {
 		"printWidth": 100,
 		"singleQuote": true,
-		"trailingComma": "es5",
+		"trailingComma": "none",
+    "bracketSpacing" : false,
+    "arrowParens": "always",
+    "tabWidth": 2,
 	}
 }

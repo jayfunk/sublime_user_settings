@@ -1,7 +1,13 @@
 {
+	"added_words":
+	[
+		"admin",
+		"Akeem",
+		"podcast"
+	],
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Monokai (SL) (SublimePythonIDE).tmTheme",
 	"detect_indentation": false,
 	"file_exclude_patterns":
 	[
@@ -40,7 +46,13 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Auth0",
+		"uid"
 	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
