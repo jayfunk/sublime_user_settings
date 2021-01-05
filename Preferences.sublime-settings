@@ -46,7 +46,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"ignored_words":
